@@ -1,5 +1,5 @@
     MyBoards-Minimal-APi-EF
     Created: 05.08.2022
-    By: Andreas Kowol
+    Created by: Andreas Kowol
      
     Minimal API including Entity Framework
